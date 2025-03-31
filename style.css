@@ -60,8 +60,8 @@ body {
     display: block;
    
     }
-@media screen and (max-width: 760px);{
-        .botao:{
+@media screen and (min-width: 760px);{
+        .botao{
             display:flex;  
         }
  }
