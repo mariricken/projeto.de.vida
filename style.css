@@ -76,3 +76,9 @@ body {
     background-color: var(--botao-ativo) ;
     border-bottom: 4px solid var(--laranja);
    }
+   .aba-conteúdo.ativo{
+    display: block;
+   }
+   .aba-conteúdo{
+    display:none;
+   }
